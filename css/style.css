@@ -56,10 +56,10 @@ span img#sq-icon{
  margin: 120px auto 150px auto;  
  }
 
-@media screen and (min-width: 992px){
+@media screen and (max-width: 992px){
   .middleblock{
   margin: 250px auto 300px auto;
- }
+  }
 }
 
 #sq-icon{
