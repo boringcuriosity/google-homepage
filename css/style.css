@@ -63,6 +63,12 @@ span img#sq-icon{
     }
   }
 
+@media screen and (min-width: 1750px){
+  .middleblock{
+    margin: 215px auto 343px auto;
+  }
+}
+
 
 #sq-icon{
   width: 2%;
